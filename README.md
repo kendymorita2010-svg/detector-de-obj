@@ -1,1 +1,3 @@
-# detector-de-obj
+ultralytics==8.2.0
+opencv-python-headless==4.10.0.84
+numpy==1.26.4
